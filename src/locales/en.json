@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "services": {
+    "ourServices": "Our",
+    "services": "Services",
+    "whatWeOffer": "What We Offer",
+    "clientBenefits": "Client Benefits",
+    "aiConsulting": "AI Consulting",
+    "aiConsultingDesc": "Expert guidance on AI integration for your business strategy.",
+    "aiConsultingDetails": "Our AI consulting services provide in-depth analysis of your business processes, identifying opportunities for AI integration. We work closely with your team to develop a customized AI roadmap that aligns with your business objectives.",
+    "aiConsultingBenefits": "Benefit from optimized operations, reduced costs, and improved decision-making processes. Our consulting helps you leverage cutting-edge AI technology to stay ahead of the competition.",
+    "aiDevelopment": "AI Development",
+    "aiDevelopmentDesc": "Custom AI solutions tailored to your specific needs.",
+    "aiDevelopmentDetails": "Our expert AI development team creates custom AI solutions, including machine learning models, natural language processing systems, and computer vision applications. We use the latest AI frameworks and technologies to deliver high-performance, scalable solutions.",
+    "aiDevelopmentBenefits": "Gain a competitive edge with AI-driven applications that automate tasks, provide valuable insights, and enhance customer experiences. Our custom solutions drive innovation and efficiency in your business.",
+    "aiMarketing": "AI Marketing",
+    "aiMarketingDesc": "AI-powered marketing strategies to elevate your brand.",
+    "aiMarketingDetails": "Harness the power of AI in your marketing efforts with our advanced AI marketing solutions. We implement AI-driven customer segmentation, personalized content generation, and predictive analytics to optimize your marketing campaigns.",
+    "aiMarketingBenefits": "Increase your ROI with targeted marketing campaigns, improved customer engagement, and data-driven insights. Our AI marketing solutions help you deliver the right message to the right audience at the right time.",
+    "aiDataAnalysis": "AI Data Analysis",
+    "aiDataAnalysisDesc": "Advanced data analysis using cutting-edge AI techniques.",
+    "aiDataAnalysisDetails": "Our AI data analysis services employ sophisticated machine learning algorithms to extract valuable insights from your data. We provide comprehensive data preprocessing, feature engineering, and model development to uncover hidden patterns and trends.",
+    "aiDataAnalysisBenefits": "Make informed decisions based on accurate predictions and deep insights. Our AI data analysis helps you identify new opportunities, mitigate risks, and optimize business processes for maximum efficiency.",
+    "aiResearchAcceleration": "AI Research Acceleration",
+    "aiResearchAccelerationDesc": "Accelerate your R&D with our AI-powered research tools.",
+    "aiResearchAccelerationDetails": "Our AI research acceleration services provide cutting-edge tools and methodologies to speed up your research and development processes. We offer AI-driven literature reviews, hypothesis generation, and experiment design assistance.",
+    "aiResearchAccelerationBenefits": "Reduce time-to-market for new products and services. Our AI research acceleration tools help you stay at the forefront of innovation, enabling you to discover new insights and develop breakthrough solutions faster than ever before."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "zh": "中文"
+  },
+  "home": {
+    "welcome": "Welcome to <span class=\"text-accent\">IVAI</span>",
+    "slogan": "Empowering Your Business with Intelligent Solutions",
+    "ourServices": "Our Services",
+    "whyChooseUs": "Why Choose <span class=\"text-accent\">IVAI</span>?",
+    "reasons": {
+      "reason1": "Cutting-edge AI technology",
+      "reason2": "Tailored solutions for your business needs",
+      "reason3": "Expert team with years of experience",
+      "reason4": "Proven track record of success",
+      "reason5": "Continuous innovation and research"
+    }
+  },
+  "footer": {
+    "description": "Providing cutting-edge AI solutions for businesses.",
+    "contact": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "copyright": "© 2024 IVAI. All rights reserved."
+  }
+}

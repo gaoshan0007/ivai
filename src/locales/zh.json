@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "contact": "联系我们"
+  },
+  "services": {
+    "aiConsulting": "AI咨询",
+    "aiDevelopment": "AI开发",
+    "aiMarketing": "AI营销",
+    "aiDataAnalysis": "AI数据分析",
+    "aiResearchAcceleration": "AI研发加速"
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "姓名",
+    "email": "电子邮箱",
+    "message": "留言",
+    "submit": "提交"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "zh": "中文"
+  },
+  "home": {
+    "welcome": "欢迎来到 <span class=\"text-accent\">IVAI</span>",
+    "slogan": "用智能解决方案赋能您的业务",
+    "ourServices": "我们的服务",
+    "whyChooseUs": "为什么选择 <span class=\"text-accent\">IVAI</span>？",
+    "reasons": {
+      "reason1": "尖端AI技术",
+      "reason2": "为您的业务需求量身定制解决方案",
+      "reason3": "拥有多年经验的专家团队",
+      "reason4": "成功案例证明",
+      "reason5": "持续创新和研究"
+    }
+  },
+  "footer": {
+    "description": "为企业提供尖端AI解决方案。",
+    "contact": "联系方式"
+  }
+}
